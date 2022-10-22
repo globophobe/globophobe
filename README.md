@@ -11,4 +11,5 @@ Some stuff I've made in my free time:
 
 My hobby is 3-club speed juggling.
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=nord)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs#gh-light-mode-only)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=nord#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=nord#gh-dark-mode-only)
