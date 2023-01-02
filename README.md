@@ -1,13 +1,13 @@
 Hi there :wave:
 
-I'm a Canadian :canada: living in Japan :jp:. Currently, I'm in Fintech, and interested in the future of France.
+I'm a Canadian :canada: living in Japan :jp:. Currently, I'm in Fintech, as a full-remote engineer.
 
-I like :coffee:, :headphones:, and focus time to GSD with Python, Django, JavaScript, Vue, and React.
+I like :coffee:, :headphones:, and focus time to get stuff done with Python, Django, JavaScript, Vue, and React.
 
 Some stuff I've made in my free time:
 
 1. A custom [Semantic UI admin theme](https://github.com/globophobe/django-semantic-admin) for Django.
-2. A Django app to download and [aggregate candlesticks from tick data](https://github.com/globophobe/django-quant-candles).
+2. A reuseable Django app to [download and aggregate candlesticks from tick data](https://github.com/globophobe/django-quant-candles).
 
 My hobby is 3-club speed juggling.
 
