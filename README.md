@@ -6,10 +6,12 @@ I like :coffee:, :headphones:, and focus time to get stuff done with Python, Dja
 
 Some stuff I've made in my free time:
 
-1. A custom [Semantic UI admin theme](https://github.com/globophobe/django-semantic-admin) for Django.
-2. A reuseable Django app to [download and aggregate candlesticks from tick data](https://github.com/globophobe/django-quant-candles).
+* A custom [Semantic UI admin theme](https://github.com/globophobe/django-semantic-admin) for Django.
+* A reuseable Django app to [download and aggregate candlesticks from tick data](https://github.com/globophobe/django-quant-candles).
 
-My hobby is 3-club speed juggling.
+Recent lightning talks:
+
+* [Hugging Face Reinforcement Learning Courseをやってみました](https://huggingface.co/spaces/globophobe/mlnagoya-huggingface-rl).
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs#gh-light-mode-only)
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=nord#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=nord#gh-dark-mode-only)
