@@ -1,6 +1,6 @@
 Hi there :wave:
 
-I'm a Canadian :canada: living in Japan :jp:. Currently, I'm in Fintech, as a full-remote engineer.
+I'm a Canadian :canada: living in Japan :jp:. Currently, I'm working remotely in Fintech.
 
 I like :coffee:, :headphones:, and focus time to get stuff done with Python, Django, JavaScript, Vue, and React.
 
