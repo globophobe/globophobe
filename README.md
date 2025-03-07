@@ -9,7 +9,7 @@ Some stuff I've made in my free time:
 * A custom [Semantic UI admin theme](https://github.com/globophobe/django-semantic-admin) for Django
 * A reuseable Django app to [download and aggregate candlesticks from tick data](https://github.com/globophobe/django-quant-candles)
 
-Past lightning talks:
+Lightning talks:
 
 * [Django Quant Tick 個人プロジェクトの紹介](https://finpy-django-quant-tick.netlify.app)
 * [Hugging Face Reinforcement Learning Courseをやってみました](https://huggingface.co/spaces/globophobe/mlnagoya-huggingface-rl) (Desktop only)
