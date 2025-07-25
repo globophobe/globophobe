@@ -11,7 +11,7 @@ Some stuff I've made in my free time:
 
 Lightning talks:
 
-* [Gemini 2.5 Pro Doesn't Suck](https://gemini-2.5-pro-doesnt-suck.netlify.app)
+* [Gemini 2.5 Pro Doesn't Suck](https://gemini-25-pro-doesnt-suck.netlify.app)
 * [Django Quant Tick 個人プロジェクトの紹介](https://finpy-django-quant-tick.netlify.app)
 * [Hugging Face Reinforcement Learning Courseをやってみました](https://huggingface.co/spaces/globophobe/mlnagoya-huggingface-rl) (Desktop only)
 
