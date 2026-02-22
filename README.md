@@ -12,8 +12,3 @@ Some stuff I've made in my free time:
 Lightning talks:
 
 * [Gemini 2.5 Pro Doesn't Suck](https://gemini-25-pro-doesnt-suck.netlify.app)
-* [Django Quant Tick 個人プロジェクトの紹介](https://finpy-django-quant-tick.netlify.app)
-* [Hugging Face Reinforcement Learning Courseをやってみました](https://huggingface.co/spaces/globophobe/mlnagoya-huggingface-rl) (Desktop only)
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs,commits#gh-light-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs,commits#gh-light-mode-only)
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs,commits&theme=nord#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=globophobe&count_private=true&show_icons=true&hide=prs,issues,contribs,commits&theme=nord#gh-dark-mode-only)
