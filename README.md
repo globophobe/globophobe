@@ -2,7 +2,7 @@ Hi there :wave:
 
 I'm a Canadian :canada: living in Japan :jp:. Currently, I'm working remotely in Fintech.
 
-I like :coffee:, :headphones:, and focus time to get stuff done with Python, JavaScript, and Go.
+I like :coffee:, :headphones:, and focus time to get stuff done with Python, JavaScript, Go, and Rust.
 
 Some stuff I've made in my free time:
 
